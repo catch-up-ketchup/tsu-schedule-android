@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="ForegroundColor" format="color" />
+
+    <attr name="color_day_border" format="color" />
+    <attr name="color_light_text" format="color" />
+    <attr name="color_class_info" format="color" />
+    <attr name="color_search_form_border" format="color" />
+
+    <attr name="color_main_background" format="color" />
+    <attr name="color_button_text" format="color" />
+
+    <attr name="color_main_extra_light" format="color" />
+    <attr name="color_main_light" format="color" />
+    <attr name="color_main_dark" format="color" />
+    <attr name="color_main_text" format="color" />
+
+    <attr name="color_error" format="color" />
+
+    <attr name="color_practice_background" format="color" />
+    <attr name="color_practice_accent" format="color" />
+    <attr name="color_practice_shadow" format="color" />
+
+    <attr name="color_lecture_background" format="color" />
+    <attr name="color_lecture_accent" format="color" />
+    <attr name="color_lecture_shadow" format="color" />
+
+    <attr name="color_laboratory_work_background" format="color" />
+    <attr name="color_laboratory_work_accent" format="color" />
+    <attr name="color_laboratory_work_shadow" format="color" />
+
+    <attr name="color_another_background" format="color" />
+    <attr name="color_another_accent" format="color" />
+    <attr name="color_another_shadow" format="color" />
+
+    <attr name="color_shadow" format="color" />
+
+</resources>

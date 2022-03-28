@@ -2,15 +2,41 @@
     <!-- Base application theme. -->
     <style name="Theme.TSUSchedule" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
-        <item name="colorPrimary">#4C6FFF</item>
-        <item name="colorPrimaryVariant">#212435</item>
-        <item name="colorOnPrimary">@color/black</item>
-        <!-- Secondary brand color. -->
-        <item name="colorSecondary">#2041C8</item>
-        <item name="colorSecondaryVariant">#2041C8</item>
-        <item name="colorOnSecondary">@color/black</item>
+        <item name="color_day_border">@color/color_day_border_dk</item>
+        <item name="color_light_text">@color/color_light_text_dk</item>
+        <item name="color_class_info">@color/color_class_info_dk</item>
+        <item name="color_search_form_border">@color/color_search_form_border_dk</item>
+
+        <item name="color_main_background">@color/color_main_background_dk</item>
+        <item name="color_button_text">@color/color_button_text_dk</item>
+
+        <item name="color_main_extra_light">@color/color_main_extra_light_dk</item>
+        <item name="color_main_light">@color/color_main_light_dk</item>
+        <item name="color_main_dark">@color/color_main_dark_dk</item>
+        <item name="color_main_text">@color/color_main_text_dk</item>
+
+        <item name="color_error">@color/color_error_dk</item>
+
+        <item name="color_practice_background">@color/color_practice_background_dk</item>
+        <item name="color_practice_accent">@color/color_practice_accent_dk</item>
+        <item name="color_practice_shadow">@color/color_practice_shadow_dk</item>
+
+        <item name="color_lecture_background">@color/color_lecture_background_dk</item>
+        <item name="color_lecture_accent">@color/color_lecture_accent_dk</item>
+        <item name="color_lecture_shadow">@color/color_lecture_shadow_dk</item>
+
+        <item name="color_laboratory_work_background">@color/color_laboratory_work_background_dk</item>
+        <item name="color_laboratory_work_accent">@color/color_laboratory_work_accent_dk</item>
+        <item name="color_laboratory_work_shadow">@color/color_laboratory_work_shadow_dk</item>
+
+        <item name="color_another_background">@color/color_another_background_dk</item>
+        <item name="color_another_accent">@color/color_another_accent_dk</item>
+        <item name="color_another_shadow">@color/color_another_shadow_dk</item>
+
+        <item name="color_shadow">@color/color_shadow_dk</item>
+        
         <!-- Status bar color. -->
-        <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/color_main_background_dk</item>
         <item name="android:windowLightStatusBar" tools:targetApi="m">true</item>
         <item name="android:windowBackground">@drawable/ic_splash_screen</item>
     </style>
