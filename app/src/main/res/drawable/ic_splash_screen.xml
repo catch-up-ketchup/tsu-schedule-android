@@ -5,8 +5,8 @@
     <item android:drawable="@drawable/ic_background"/>
     <item android:drawable="@drawable/ic_background_accent"
         android:gravity="center"
-        android:width="92dp"
-        android:height="92dp" />
+        android:width="98dp"
+        android:height="98dp" />
     <item
         android:drawable="@drawable/ic_app_logo"
         android:gravity="center"/>
